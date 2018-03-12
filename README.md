@@ -1,2 +1,2 @@
 # ABedirWorld
-My Personal Site
+Website for personal branding.
